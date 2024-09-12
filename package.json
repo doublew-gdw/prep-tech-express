@@ -1,0 +1,17 @@
+{
+  "name": "pzn-unit-test-nodejs",
+  "version": "1.0.0",
+  "description": "Project for learning unit tests in nodejs",
+  "type": "module",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "gede-wahyu",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
